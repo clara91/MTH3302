@@ -1,0 +1,301 @@
+Rank   ; School Name  ;   School Type  ; Early Career Pay   ($); Mid-Career Pay ($); % High Meaning
+1; Harvey Mudd College ; Engineering, Liberal Arts School, Private School    ;85600;157400;56%
+2; Massachusetts Institute of Technology ; Engineering, Private School, Research University    ;83600;150400;53%
+3; United States Naval Academy ; Engineering, Liberal Arts School, Sober School, For Sports Fans, State School   ;78600;149800;65%
+4; Stanford University ; Engineering, Private School, Research University, For Sports Fans   ;76500;143100;57%
+4; California Institute of Technology ; Engineering, Private School, Research University    ;83400;143100;54%
+6; Albany College of Pharmacy and Health Sciences ; Private School  ;80200;142600;83%
+6; Harvard University ; Ivy League, Private School, Research University, For Sports Fans    ;72600;142600;55%
+8; United States Military Academy ; Liberal Arts School, Sober School, For Sports Fans, State School    ;79300;141900;63%
+9; Princeton University ; Ivy League, Private School, Research University, For Sports Fans    ;72700;141300;47%
+10; SUNY Maritime College ; State School    ;73300;140100;55%
+11; Colorado School of Mines ; Engineering, Research University, State School  ;74100;139300;60%
+12; Babson College ; Business, Private School    ;69300;139200;35%
+13; Santa Clara University ; Private School, Religious, For Sports Fans  ;66800;139100;44%
+14; Stevens Institute of Technology ; Engineering, Private School, Research University    ;73600;138900;50%
+15; Dartmouth College ; Ivy League, Private School, Research University, For Sports Fans    ;68900;137500;44%
+16; Colgate University ; Liberal Arts School, Party School, Private School, For Sports Fans  ;65000;137300;38%
+16; United States Air Force Academy ; Liberal Arts School, Sober School, For Sports Fans, State School    ;74000;137300;69%
+18; United States Merchant Marine Academy ; Engineering, State School   ;80800;136600;64%
+19; University of Pennsylvania ; Ivy League, Private School, Research University, For Sports Fans    ;70100;135800;42%
+20; Lehigh University ; Engineering, Party School, Private School, Research University, For Sports Fans ;67200;135700;45%
+21; Williams College ; Liberal Arts School, Private School ;64000;135500;48%
+22; Yale University ; Ivy League, Private School, Research University, For Sports Fans    ;68300;135400;54%
+23; Webb Institute ; Engineering, Private School ;79100;134700; N/A
+24; Franklin W Olin College of Engineering ; Engineering, Private School ;81900;134200; N/A
+25; Rice University ; Private School, Research University, For Sports Fans  ;69200;133600;49%
+26; Duke University ; Private School, Religious, Research University, For Sports Fans ;68700;133100;50%
+27; Worcester Polytechnic Institute ; Engineering, Private School, Research University    ;71700;132500;48%
+28; University of California-Berkeley ; Research University, For Sports Fans, State School  ;68300;132300;49%
+29; Georgia Institute of Technology-Main Campus ; Engineering, Research University, For Sports Fans, State School ;70800;131900;48%
+30; Rensselaer Polytechnic Institute ; Engineering, Private School, Research University    ;69600;131600;48%
+30; Brown University ; Ivy League, Private School, Research University, For Sports Fans    ;65400;131600;46%
+32; University of Notre Dame ; Private School, Religious, Research University, For Sports Fans ;64700;131500;46%
+33; Haverford College ; Liberal Arts School, Private School ;56100;131400;44%
+34; Carnegie Mellon University ; Engineering, Private School, Research University    ;73600;131200;46%
+35; Washington and Lee University ; Liberal Arts School, Private School ;63200;130400;40%
+36; Rose-Hulman Institute of Technology ; Engineering, Private School ;73400;129900;52%
+37; Swarthmore College ; Liberal Arts School, Private School ;63800;129200;46%
+38; California State University Maritime Academy ; State School    ;67500;129100;55%
+39; Cooper Union for the Advancement of Science and Art ; Engineering, Private School, Sober School   ;65900;128300;46%
+39; Georgetown University ; Private School, Religious, Research University, For Sports Fans ;63700;128300;43%
+41; Clarkson University ; Engineering, Private School, Research University    ;65100;128200;59%
+42; Columbia University in the City of New York ; Ivy League, Private School, Research University, For Sports Fans    ;69200;127500;44%
+43; Claremont McKenna College ; Liberal Arts School, Private School ;66800;127400;45%
+44; Cornell University ; Ivy League, Private School, Research University, For Sports Fans    ;68200;127100;45%
+45; University of California-San Diego ; Engineering, Research University, State School  ;61300;126800;52%
+46; Bucknell University ; Liberal Arts School, Party School, Private School, For Sports Fans  ;64800;125200;40%
+47; Manhattan College ; Private School, Religious, For Sports Fans  ;62600;124900;46%
+48; Charles R Drew University of Medicine and Science ; Private School  ;82900;124000; N/A
+49; Amherst College ; Liberal Arts School, Private School ;62300;123700;43%
+50; Samuel Merritt University ; Private School  ;91400;123100; N/A
+51; The King's University ; Private School, Religious  ;61900;122900;31%
+52; University of Southern California ; Private School, Research University, For Sports Fans    ;62000;122600;47%
+53; Union College (New York) ; Liberal Arts School, Party School, Private School   ;60900;122400;51%
+54; University of California-Irvine ; Research University, For Sports Fans, State School  ;57700;121800;48%
+55; Virginia Military Institute ; Liberal Arts School, For Sports Fans, State School  ;63900;121600;68%
+56; New Mexico Institute of Mining and Technology ; Engineering, State School   ;62500;121500;62%
+56; University of California-Santa Barbara ; Party School, Research University, For Sports Fans, State School    ;57300;121500;47%
+58; Lafayette College ; Liberal Arts School, Private School, Religious, For Sports Fans ;64200;121200;41%
+59; New Jersey Institute of Technology ; Engineering, Research University, For Sports Fans, State School ;62800;121100;52%
+60; College of the Holy Cross ; Liberal Arts School, Private School, Religious, For Sports Fans ;58800;121000;46%
+61; New York University ; Private School, Research University ;60800;120700;42%
+62; Tufts University ; Private School, Research University ;63200;120500;50%
+63; Hobart William Smith Colleges ; Liberal Arts School, Private School ;53600;120400;49%
+63; Kettering University ; Engineering, Private School ;69000;120400;44%
+63; MCPHS University ; Private School  ;63700;120400;70%
+66; Bates College ; Liberal Arts School, Private School ;57500;120300;51%
+67; University of Virginia-Main Campus ; Research University, For Sports Fans, State School  ;62300;119900;46%
+67; Pomona College ; Liberal Arts School, Private School ;60500;119900;47%
+67; Maine Maritime Academy ; State School    ;66700;119900;66%
+70; George Washington University ; Private School, Research University, For Sports Fans    ;59000;119200;47%
+71; Fairfield University ; Private School, Religious, For Sports Fans  ;59600;118700;41%
+72; Wake Forest University ; Party School, Private School, Research University, For Sports Fans  ;58200;118600;47%
+73; University of California-Los Angeles ; Research University, For Sports Fans, State School  ;60000;118500;47%
+74; Vanderbilt University ; Private School, Research University, For Sports Fans    ;63800;118400;49%
+74; Brandeis University ; Private School, Research University ;58000;118400;47%
+76; California Polytechnic State University-San Luis Obispo ; For Sports Fans, State School   ;63500;118000;51%
+77; Villanova University ; Private School, Religious, Research University, For Sports Fans ;63600;117900;41%
+78; Boston College ; Private School, Religious, Research University, For Sports Fans ;61600;117700;43%
+79; University of Chicago ; Private School, Research University ;61600;117500;43%
+80; University of the Sciences ; Private School  ;55900;117200;72%
+81; Missouri University of Science and Technology ; Engineering, Research University, State School  ;66700;116400;51%
+82; Loyola Marymount University ; Private School, Religious, For Sports Fans  ;56000;116300;39%
+83; Davidson College ; Liberal Arts School, Private School, Religious, For Sports Fans ;55000;116100;50%
+83; Bentley University ; Business, Private School    ;64600;116100;36%
+85; Wabash College ; Liberal Arts School, Private School ;60200;116000;40%
+85; Bowdoin College ; Liberal Arts School, Private School ;59700;116000;56%
+87; Texas A & M University-College Station ; Research University, For Sports Fans, State School  ;59000;115900;53%
+87; Illinois Institute of Technology ; Engineering, Private School, Research University    ;62800;115900;48%
+89; Northwestern University ; Private School, Research University, For Sports Fans    ;61500;115800;47%
+89; Embry-Riddle Aeronautical University-Prescott ; Private School  ;63500;115800;55%
+89; Loyola University Maryland ; Private School, Religious, For Sports Fans  ;57500;115800;39%
+92; Boston University ; Private School, Research University, For Sports Fans    ;58900;115700;42%
+93; Carleton College ; Liberal Arts School, Private School ;56100;115300;45%
+94; Franklin and Marshall College ; Liberal Arts School, Private School ;54600;114800;43%
+95; Wesleyan University ; Liberal Arts School, Private School ;59300;114700;56%
+96; Massachusetts Maritime Academy ; State School    ;67200;114600;54%
+97; Hampden-Sydney College ; Liberal Arts School, Private School ;55800;114000;52%
+98; Fordham University ; Private School, Religious, Research University, For Sports Fans ;56400;113900;38%
+99; Case Western Reserve University ; Private School, Research University ;65100;113800;45%
+99; University of Illinois at Urbana-Champaign ; Party School, Research University, For Sports Fans, State School    ;61000;113800;45%
+99; University of California-Davis ; Research University, For Sports Fans, State School  ;59400;113800;53%
+102; South Dakota School of Mines and Technology ; Engineering, State School   ;65800;113700;58%
+102; Menlo College ; Business, Private School    ;59100;113700;56%
+104; Gettysburg College ; Liberal Arts School, Private School ;55900;113600;41%
+104; College of William and Mary ; Research University, For Sports Fans, State School  ;57100;113600;44%
+106; Hofstra University ; Private School, Research University, For Sports Fans    ;55000;113300;39%
+107; Johns Hopkins University ; Private School, Research University ;65500;113200;57%
+108; Washington University in St Louis ; Private School, Research University ;62700;113100;42%
+109; Virginia Polytechnic Institute and State University ; Research University, For Sports Fans, State School  ;60900;112800;48%
+110; Middlebury College ; Liberal Arts School, Private School ;58400;112400;52%
+110; San Jose State University ; For Sports Fans, State School   ;61300;112400;54%
+112; Drexel University ; Private School, Research University, For Sports Fans    ;60700;112200;47%
+113; University of Washington-Seattle Campus ; Research University, For Sports Fans, State School  ;59900;111800;52%
+113; Emory University ; Private School, Religious, Research University  ;59900;111800;44%
+115; Yeshiva University ; Private School, Research University ;61700;111700;44%
+116; Rutgers University-New Brunswick ; Research University, For Sports Fans, State School  ;57800;111600;42%
+116; Milwaukee School of Engineering ; Engineering, Private School ;65000;111600;49%
+116; California State Polytechnic University-Pomona ; State School    ;56000;111600;50%
+116; Trinity College ; Liberal Arts School, Private School ;57600;111600;50%
+116; Wentworth Institute of Technology ; Private School  ;61300;111600;53%
+121; Kenyon College ; Liberal Arts School, Private School ;52700;111500;49%
+121; University of Colorado Boulder ; Research University, For Sports Fans, State School  ;55600;111500;48%
+121; Saint Mary's College of California ; Private School, Religious, For Sports Fans  ;57700;111500;48%
+124; The University of Texas at Austin ; Research University, For Sports Fans, State School  ;59100;111400;48%
+125; Seattle University ; Private School, Religious, For Sports Fans  ;59400;111300;59%
+126; Binghamton University ; Research University, For Sports Fans, State School  ;58900;111200;44%
+127; Occidental College ; Liberal Arts School, Private School ;54100;111100;47%
+128; Saint Johns University ; Liberal Arts School, Private School, Religious  ;57400;111000;46%
+129; United States Coast Guard Academy ; Engineering, Sober School, State School ;66400;110900;71%
+130; University of San Francisco ; Private School, Religious, Research University, For Sports Fans ;58600;110600;52%
+130; Capitol Technology University ; Engineering, Private School ;65700;110600;62%
+132; Southern Methodist University ; Private School, Religious, Research University, For Sports Fans ;57200;110400;47%
+132; University of San Diego ; Private School, Religious, Research University, For Sports Fans ;56600;110400;47%
+134; University of Rochester ; Private School, Research University ;58900;110300;52%
+135; University of the Pacific ; Private School, Research University, For Sports Fans    ;57700;110200;57%
+135; Michigan Technological University ; Engineering, Research University, State School  ;64600;110200;48%
+137; Stony Brook University ; Research University, For Sports Fans, State School  ;57000;110000;49%
+138; Wittenberg University ; Liberal Arts School, Private School, Religious  ;49800;109800;61%
+138; Reed College ; Liberal Arts School, Private School ;53900;109800;47%
+140; University of Maryland-College Park ; Research University, For Sports Fans, State School  ;60000;109700;51%
+141; St John's University-New York ; Private School, Religious, Research University, For Sports Fans ;53200;109500;44%
+142; University of California-Riverside ; Research University, For Sports Fans, State School  ;54000;109300;47%
+143; Brigham Young University-Provo ; Private School, Religious, Research University, Sober School, For Sports Fans   ;57400;109200;59%
+144; Whitman College ; Liberal Arts School, Private School ;52200;109000;52%
+144; University of Richmond ; Liberal Arts School, Private School, For Sports Fans    ;57900;109000;46%
+146; Tulane University of Louisiana ; Party School, Private School, Research University, For Sports Fans  ;54600;108800;44%
+147; University of St Thomas (Minnesota) ; Private School, Religious, Research University  ;55600;108600;50%
+147; St. John's College (Maryland) ; Liberal Arts School, Private School ;54900;108600; N/A
+149; Bryant University ; Business, Private School, For Sports Fans   ;58700;108400;37%
+150; Barnard College ; Liberal Arts School, Private School ;56800;108300;55%
+150; Westmont College ; Liberal Arts School, Private School ;52400;108300;54%
+152; Denison University ; Liberal Arts School, Private School ;52400;108200;44%
+153; Miami University-Oxford ; Research University, For Sports Fans, State School  ;55400;108100;46%
+154; Gonzaga University ; Private School, Religious, For Sports Fans  ;56300;108000;50%
+155; University of Michigan-Ann Arbor ; Research University, For Sports Fans, State School  ;62000;107900;45%
+156; Lake Forest College ; Liberal Arts School, Private School ;53700;107800;47%
+157; CUNY Bernard M Baruch College ; Business, Sober School, State School    ;57100;107600;36%
+158; Seattle Pacific University ; Private School, Religious, Research University  ;51500;107500;51%
+159; Rhodes College ; Liberal Arts School, Private School, Religious  ;49400;107400;47%
+159; Providence College ; Party School, Private School, Religious, For Sports Fans    ;56900;107400;43%
+161; Pace University-New York ; Private School, Research University ;57700;107300;38%
+161; Golden Gate University-San Francisco ; Business, Private School    ;58900;107300;51%
+161; University of Massachusetts-Lowell ; Research University, For Sports Fans, State School  ;57400;107300;53%
+164; Citadel Military College of South Carolina ; For Sports Fans, State School   ;58800;107200;63%
+164; Montana Tech of the University of Montana ; Engineering, State School   ;61900;107200;61%
+166; La Salle University ; Private School, Religious, For Sports Fans  ;53700;107000;41%
+167; American University ; Private School, Religious, Research University, For Sports Fans ;53700;106500;44%
+168; Iona College ; Private School, Religious, For Sports Fans  ;53800;106400;40%
+168; Lawrence Technological University ; Engineering, Private School ;56700;106400;48%
+170; Marquette University ; Private School, Religious, Research University, For Sports Fans ;56400;106200;53%
+170; George Mason University ; Research University, For Sports Fans, State School  ;57200;106200;48%
+172; The New School ; Art, Private School, Research University    ;52100;106100;33%
+172; Catholic University of America ; Private School, Religious, Research University  ;55700;106100;57%
+174; Embry-Riddle Aeronautical University-Daytona Beach ; Private School  ;61900;106000;59%
+175; Clark University ; Private School, Research University ;50200;105900;43%
+175; Northeastern University ; Private School, Research University, For Sports Fans    ;61200;105900;47%
+177; Polytechnic University of Puerto Rico-Miami ; Business, Private School    ;61500;105800; N/A
+177; Purdue University-Main Campus ; Research University, For Sports Fans, State School  ;60200;105800;48%
+179; University of Delaware ; Party School, Research University, For Sports Fans, State School    ;56700;105700;42%
+180; Saint Joseph's University ; Private School, Religious, For Sports Fans  ;55300;105600;41%
+181; Wagner College ; Private School, Religious, For Sports Fans  ;56400;105400;44%
+181; Syracuse University ; Party School, Private School, Research University, For Sports Fans  ;56200;105400;43%
+183; Pratt Institute-Main ; Art, Private School ;52100;105000;45%
+184; Stonehill College ; Liberal Arts School, Private School, Religious  ;54000;104900;43%
+185; New York Institute of Technology ; Private School  ;54300;104800;46%
+185; Pepperdine University ; Private School, Religious, Research University, For Sports Fans ;56400;104800;43%
+187; North Carolina State University at Raleigh ; Research University, For Sports Fans, State School  ;55800;104700;52%
+187; Bradley University ; Private School, For Sports Fans ;54100;104700;47%
+187; University of California-Santa Cruz ; Research University, State School   ;56100;104700;45%
+190; University of Dayton ; Private School, Religious, Research University, For Sports Fans ;56100;104500;44%
+191; St Lawrence University ; Liberal Arts School, Private School ;53800;104300;50%
+191; Texas Tech University ; Research University, For Sports Fans, State School  ;55700;104300;54%
+193; California State University-Chico ; State School    ;55100;104200;52%
+194; University of Washington-Bothell Campus ; State School    ;58200;104100;54%
+194; Clemson University ; Research University, For Sports Fans, State School  ;56300;104100;51%
+194; Trinity University ; Private School, Religious   ;53400;104100;46%
+197; Ohio Wesleyan University ; Liberal Arts School, Private School, Religious  ;48800;103900;48%
+197; Albion College ; Liberal Arts School, Private School, Religious  ;50200;103900;44%
+197; Wellesley College ; Liberal Arts School, Private School ;56600;103900;50%
+200; DePaul University ; Private School, Religious, Research University, For Sports Fans ;53800;103800;43%
+201; SUNY at Albany ; Research University, For Sports Fans, State School  ;51500;103600;44%
+202; University of Portland ; Private School, Religious, For Sports Fans  ;57400;103300;50%
+202; Siena College ; Liberal Arts School, Private School, Religious, For Sports Fans ;52100;103300;45%
+204; University of Tulsa ; Private School, Religious, Research University, For Sports Fans ;58500;103200;52%
+204; Ithaca College ; Private School  ;50600;103200;40%
+204; James Madison University ; For Sports Fans, State School   ;55800;103200;42%
+207; Pennsylvania State University-Main Campus ; Research University, For Sports Fans, State School  ;57300;103100;47%
+208; Furman ; Liberal Arts School, Private School, For Sports Fans    ;49600;103000;49%
+208; Merrimack College ; Private School, Religious   ;54700;103000;48%
+210; Lawrence University ; Liberal Arts School, Private School ;48500;102900;63%
+210; DePauw University ; Liberal Arts School, Private School ;54900;102900;46%
+210; Auburn University ; Research University, For Sports Fans, State School  ;52800;102900;51%
+210; San Diego State University ; Research University, For Sports Fans, State School  ;53400;102900;52%
+210; Hampshire College ; Liberal Arts School, Private School ;44800;102900;50%
+215; Ursinus College ; Liberal Arts School, Private School ;52100;102700;39%
+215; University of Connecticut ; Research University, For Sports Fans, State School  ;57700;102700;49%
+217; Willamette University ; Liberal Arts School, Private School ;49900;102600;48%
+217; Rochester Institute of Technology ; Engineering, Private School, Research University    ;60400;102600;43%
+217; Bismarck State College ; State School    ;61100;102600; N/A
+217; University of Puerto Rico-Mayaguez ; Engineering, State School   ;62800;102600;60%
+221; Sewanee-The University of the South ; Liberal Arts School, Private School, Religious  ;51100;102500;59%
+221; University of Maryland-Baltimore County ; Research University, For Sports Fans, State School  ;56800;102500;53%
+223; Washington State University ; Research University, For Sports Fans, State School  ;54600;102200;50%
+223; West Virginia University Institute of Technology ; State School    ;55800;102200;56%
+223; Saint Michael's College ; Liberal Arts School, Private School, Religious  ;51200;102200;39%
+223; Resurrection University ; Private School, Religious   ;64000;102200; N/A
+223; University of Illinois at Chicago ; Research University, For Sports Fans, State School  ;55000;102200;48%
+228; SUNY Downstate Medical Center ; State School    ;67100;102100;84%
+228; Florida Institute of Technology ; Private School, Research University ;57600;102100;55%
+228; St Olaf College ; Liberal Arts School, Private School, Religious  ;51900;102100;48%
+231; University of Massachusetts-Amherst ; Research University, For Sports Fans, State School  ;55800;102000;46%
+231; Colby College ; Liberal Arts School, Private School ;57800;102000;47%
+233; University of Wisconsin-Madison ; Party School, Research University, For Sports Fans, State School    ;55700;101800;49%
+233; Baylor University ; Private School, Religious, Research University, Sober School, For Sports Fans   ;53900;101800;50%
+233; Art Center College of Design ; Private School  ;62800;101800;40%
+236; Muhlenberg College ; Liberal Arts School, Private School, Religious  ;51700;101700;43%
+236; Fashion Institute of Technology ; State School    ;52200;101700;29%
+236; Butler University ; Private School, For Sports Fans ;50000;101700;52%
+236; University of Redlands ; Business, Private School    ;53300;101700;57%
+240; University of Utah ; Research University, For Sports Fans, State School  ;53400;101600;57%
+240; California State University-Long Beach ; For Sports Fans, State School   ;51100;101600;49%
+240; University of Denver ; Private School, Research University, For Sports Fans    ;54000;101600;49%
+240; University of Minnesota-Twin Cities ; Research University, For Sports Fans, State School  ;55800;101600;52%
+244; Ohio Northern University ; Private School, Religious   ;53500;101500;49%
+244; University of Puget Sound ; Liberal Arts School, Private School ;52900;101500;45%
+244; St. John's College-Department of Nursing ; Private School, Religious   ;52900;101500; N/A
+247; University of Florida ; Party School, Research University, For Sports Fans, State School    ;54200;101400;52%
+248; Oregon State University ; Research University, For Sports Fans, State School  ;54800;101300;53%
+248; Wheaton College (Illinois) ; Liberal Arts School, Private School, Religious, Sober School    ;51500;101300;55%
+248; Wheaton College (Massachusetts) ; Liberal Arts School, Private School ;51300;101300;45%
+248; Louisiana State University and Agricultural & Mechanical College ; Research University, For Sports Fans, State School  ;53500;101300;52%
+252; University of Scranton ; Private School, Religious   ;54400;101100;45%
+253; Marist College ; Private School, For Sports Fans ;54000;101000;34%
+253; The College of New Jersey ; State School    ;57200;101000;44%
+253; Macalester College ; Liberal Arts School, Private School, Religious  ;51300;101000;50%
+256; Oregon Institute of Technology ; State School    ;60500;100900;59%
+256; University of Houston ; Research University, For Sports Fans, State School  ;55000;100900;50%
+256; Smith College ; Liberal Arts School, Private School ;51100;100900;49%
+256; Drake University ; Private School, For Sports Fans ;51600;100900;50%
+260; Southern California Institute of Architecture ; Private School  ;51300;100800;70%
+261; Dickinson College ; Liberal Arts School, Private School ;54200;100700;48%
+261; Touro College ; Private School  ;57700;100700;53%
+261; University of Alabama in Huntsville ; Research University, State School   ;56200;100700;57%
+261; University of Hartford ; Private School, Research University, For Sports Fans    ;53700;100700;53%
+265; Oberlin College ; Liberal Arts School, Private School ;51400;100600;50%
+265; Universidad Metropolitana ; Private School  ;47600;100600;60%
+265; Wofford College ; Liberal Arts School, Private School, Religious, For Sports Fans ;49300;100600;50%
+268; Marlboro College ; Liberal Arts School, Private School ;51300;100500; N/A
+269; Saint Peter's University ; Private School, Religious, For Sports Fans  ;51800;100200;37%
+269; Loma Linda University ; Private School, Religious   ;70300;100200;83%
+269; University of Iowa ; Research University, For Sports Fans, State School  ;52500;100200;48%
+272; California State University-Sacramento ; For Sports Fans, State School   ;53000;100100;53%
+273; University of Georgia ; Research University, For Sports Fans, State School  ;52600;100000;44%
+273; California State University-Fullerton ; Research University, For Sports Fans, State School  ;49400;100000;48%
+275; Seton Hall University ; Private School, Religious, Research University, For Sports Fans ;56000;99900;43%
+275; Felician University ; Private School, Religious   ;52100;99900;52%
+277; University of Rhode Island ; Party School, Research University, For Sports Fans, State School    ;53000;99800;49%
+277; Michigan State University ; Research University, For Sports Fans, State School  ;53900;99800;46%
+279; Hartwick College ; Liberal Arts School, Private School ;51100;99700;62%
+279; Rutgers University-Newark ; Research University, State School   ;57000;99700;51%
+279; University of Vermont ; Party School, Research University, For Sports Fans, State School    ;51600;99700;50%
+282; University of Dallas ; Private School, Religious   ;51300;99600;48%
+282; University of New Hampshire-Main Campus ; Research University, For Sports Fans, State School  ;52600;99600;51%
+284; Kalamazoo College ; Liberal Arts School, Private School ;49900;99500;52%
+285; John Carroll University ; Private School, Religious   ;49800;99400;37%
+285; LIU Brooklyn ; Private School, For Sports Fans ;55400;99400;69%
+285; Skidmore College ; Liberal Arts School, Private School ;52700;99400;39%
+285; Western Washington University ; State School    ;53000;99400;46%
+285; California College of the Arts ; Art, Private School ;56600;99400;50%
+285; Taylor University ; Private School, Religious   ;46800;99400;58%
+291; Vassar College ; Liberal Arts School, Private School ;54200;99300;53%
+292; University of Oklahoma-Norman Campus ; Research University, For Sports Fans, State School  ;53500;99200;52%
+292; California State University-East Bay ; State School    ;55600;99200;51%
+294; West Virginia University ; Party School, Research University, For Sports Fans, State School    ;52900;99000;53%
+294; University of Arizona ; Research University, For Sports Fans, State School  ;55000;99000;50%
+294; University of Missouri-Columbia ; Research University, For Sports Fans, State School  ;50800;99000;50%
+294; Westminster College (Missouri) ; Liberal Arts School, Private School, Religious  ;47700;99000;55%
+294; Iowa State University ; Research University, For Sports Fans, State School  ;54900;99000;47%
+299; Arizona State University-Tempe ; Research University, For Sports Fans, State School  ;53200;98900;52%
+299; Howard University ; Private School, Research University, For Sports Fans ;54400;98900;56%

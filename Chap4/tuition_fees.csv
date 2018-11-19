@@ -1,0 +1,301 @@
+Rank  ;  Name   ; State  ; Tuition (in-state for public schools in$) ; Total Student Population
+1;  University of California, Los Angeles ; CA ;12763;41908
+2;  University of California, Berkeley ; CA ;13431;38189
+3;  Brigham Young University   ; UT ;5150;33469
+4;  University of California, Irvine   ; CA ;13252;30836
+5;  University of Washington, Seattle  ; WA ;11839;45408
+6;  Harvard University ; MA ;45278;29652
+7;  Stanford University; CA ;46320;1698
+8;  Princeton University   ; NJ ;43450;8138
+9;  University of California, San Diego; CA ;13530;32906
+10; Amherst College; MA ;50562;1795
+11; University of California, Santa Barbara; CA ;13968;23497
+12; CUNY, Baruch College   ; NY ;6810;18433
+13; University of California, Davis; CA ;13951;35186
+14; Yale University; CT ;47600;12385
+15; Williams College   ; MA ;50070;2171
+16; Pomona College ; CA ;47620;1663
+17; Massachusetts Institute of Technology  ; MA ;46704;11331
+18; Duke University; NC ;49241;15984
+19; University of North Carolina, Chapel Hill  ; NC ;8591;29084
+20; University of Florida  ; FL ;6381;50645
+21; University of Virginia ; VA ;15192;23883
+22; Dartmouth College  ; NH ;49506;635
+23; Swarthmore College ; PA ;47442;1581
+24; Georgia Institute of Technology; GA ;12204;25034
+25; Rice University; TX ;42253;6719
+26; Haverford College  ; PA ;49098;1233
+27; Columbia University; NY ;53000;28086
+28; University of Pennsylvania ; PA ;49536;24876
+29; Texas A&M University, College Station  ; TX ;10176;63813
+30; University of Maryland, College Park   ; MD ;9996;3814
+31; Vanderbilt University  ; TN ;44712;12567
+32; Brown University   ; RI ;49346;9458
+33; Wesleyan University; CT ;49274;3138
+34; University of Michigan, Ann Arbor  ; MI ;13856;43651
+35; University of Washington Bothell   ; WA ;11758;5277
+36; Wellesley College  ; MA ;46836;251
+37; Colgate University ; NY ;49970;2861
+38; Middlebury College ; VT ;47828;2558
+39; College of William & Mary  ; VA ;19372;8484
+40; California Institute of Technology ; CA ;45390;2255
+41; Stony Brook University, SUNY   ; NY ;8855;25272
+42; Purdue University  ; IN ;10002;40472
+43; University of Illinois, Urbana-Champaign   ; IL ;15054;45842
+44; University of Texas, Austin; TX ;9806;5095
+45; San Diego State University ; CA ;6976;34254
+46; University of Utah ; UT ;8197;31592
+47; Bowdoin College; ME ;48212;1799
+48; Washington and Lee University  ; VA ;46417;2172
+49; Bates College  ; ME ;48435;1792
+50; Georgetown University  ; DC ;48611;18459
+51; CUNY, Queens College   ; NY ;6938;1952
+52; Binghamton University, SUNY; NY ;9053;16913
+53; California State University, Long Beach; CA ;6452;37446
+54; University of Georgia  ; GA ;11622;3613
+55; San Jose State University  ; CA ;7378;32773
+56; Emory University   ; GA ;46314;13788
+57; Vassar College ; NY ;51250;2435
+58; Colby College  ; ME ;49120;1857
+58; Cornell University ; NY ;49116;21904
+60; Claremont McKenna College  ; CA ;49045;1349
+61; University of Texas, Dallas; TX ;10864;24554
+62; North Carolina State University, Raleigh   ; NC ;8581;34015
+63; Trinity College (CT)   ; CT ;50776;2397
+64; University of California, Riverside; CA ;13527;21385
+65; California Polytechnic State University, San Luis Obispo   ; CA ;9001;20944
+66; California State Polytechnic University, Pomona; CA ;7016;23717
+67; Barnard College; NY ;47631;2548
+68; California State University, Fullerton ; CA ;6437;38948
+69; Davidson College   ; NC ;46966;1784
+70; CUNY, Brooklyn College ; NY ;6838;1741
+71; Hamilton College   ; NY ;49500;1877
+72; University of Illinois, Chicago; IL ;13664;29048
+73; University of Wisconsin, Madison   ; WI ;10415;42716
+74; Tufts University   ; MA ;50604;11137
+74; University of Chicago  ; IL ;51351;15391
+76; New Mexico Institute of Mining and Technology  ; NM ;6613;215
+77; University of California, Santa Cruz   ; CA ;13461;17868
+78; Cooper Union   ; NY ;42650;972
+79; Washington University in St. Louis ; MO ;48093;14688
+80; Rutgers University ; NJ ;14131;49428
+81; Indiana University, Bloomington; IN ;10388;48514
+82; Wake Forest University ; NC ;47682;7837
+83; Johns Hopkins University   ; MD ;48710;22686
+84; James Madison University   ; VA ;10018;21227
+85; Yeshiva University ; NY ;39530;6194
+86; Virginia Tech  ; VA ;12485;32663
+87; Northwestern University; IL ;49047;21655
+88; Louisiana State University ; LA ;9714;31524
+89; California State University, Chico ; CA ;7022;1722
+90; University of Minnesota, Twin Cities   ; MN ;13790;50678
+91; Arizona State University, Tempe; AZ ;10158;51984
+92; CUNY, Hunter College   ; NY ;6782;22918
+93; The City College of New York   ; NY ;6689;15778
+94; University of Richmond ; VA ;48090;4181
+95; New College of Florida ; FL ;6916;861
+96; New Jersey Institute of Technology ; NJ ;16108;11325
+97; University of Notre Dame   ; IN ;47929;12292
+98; George Mason University; VA ;10952;33929
+99; University of Colorado, Boulder; CO ;11091;33056
+100;    Clemson University ; SC ;14272;22698
+101;    California State University, Stanislaus; CA ;6704;9282
+102;    Boston College ; MA ;49324;14354
+103;    University at Buffalo (SUNY)   ; NY ;9381;29796
+104;    California State University, Fresno; CA ;6311;24136
+105;    Franklin and Marshall College  ; PA ;50400;2249
+105;    Ohio State University  ; OH ;10037;58663
+107;    Brigham Young University-Idaho ; ID ;3830;43803
+108;    University of Arizona  ; AZ ;11403;42595
+109;    University of Southern California  ; CA ;50277;43401
+110;    Missouri University of Science and Technology  ; MO ;9048;8886
+111;    CUNY, College of Staten Island ; NY ;6890;13701
+112;    Kenyon College ; OH ;49140;1711
+113;    University of Iowa ; IA ;8104;30844
+114;    California State University, Northridge; CA ;6569;41548
+115;    Washington State University; WA ;11967;29686
+116;    University of Oklahoma, Norman ; OK ;10090;27428
+117;    California State University, Sacramento; CA ;6872;30284
+118;    University of Maryland, Baltimore County   ; MD ;11006;13839
+119;    Lafayette College  ; PA ;47760;2533
+120;    Miami University (OH)  ; OH ;14287;19076
+121;    California State University, East Bay  ; CA ;6564;15528
+122;    Babson College ; MA ;46784;3057
+123;    College of the Ozarks  ; MO ;18730;1441
+124;    University of Connecticut  ; CT ;13366;27043
+125;    Skidmore College   ; NY ;49120;2642
+126;    Reed College   ; OR ;49940;1453
+127;    University of Oregon   ; OR ;10289;24032
+128;    Utah State University  ; UT ;7260;28622
+129;    Michigan State University  ; MI ;13560;50538
+130;    University at Albany, SUNY ; NY ;8996;17178
+131;    Grinnell College   ; IA ;46990;1705
+132;    San Francisco State University ; CA ;6476;30256
+132;    Virginia Military Institute; VA ;16536;1717
+134;    University of Houston  ; TX ;8759;42704
+135;    Florida State University   ; FL ;6507;4083
+136;    Berea College  ; KY ;24870;1643
+137;    Santa Clara University ; CA ;45300;868
+138;    Texas Tech University  ; TX ;8028;35859
+139;    New York University; NY ;47750;50027
+140;    Oklahoma State University  ; OK ;7778;2593
+141;    University of Delaware ; DE ;12520;22852
+142;    Lehigh University  ; PA ;46230;7054
+142;    Western Washington University  ; WA ;8611;15332
+144;    University of South Florida; FL ;6410;42067
+145;    Carleton College   ; MN ;49263;2014
+146;    SUNY, Geneseo  ; NY ;8113;5699
+147;    Colorado School of Mines   ; CO ;17353;6054
+148;    Louisiana Tech University  ; LA ;8854;12371
+149;    Colorado College   ; CO ;48996;2131
+150;    Pitzer College ; CA ;48670;1067
+151;    University of Central Florida  ; FL ;6368;62953
+152;    University of Vermont  ; VT ;16768;12815
+153;    Grove City College ; PA ;16154;2444
+154;    Auburn University  ; AL ;10424;27287
+155;    SUNY, Farmingdale State College; NY ;7808;8648
+156;    CUNY, John Jay College of Criminal Justice ; NY ;6810;14732
+157;    The Citadel; SC ;11364;3506
+158;    California State University, Los Angeles   ; CA ;6355;2768
+159;    Montana Tech of the University of Montana  ; MT ;6539;213
+160;    Colorado State University, Fort Collins; CO ;10558;30614
+161;    University of Arkansas ; AR ;8522;26754
+162;    University of Nebraska, Lincoln; NE ;8367;2526
+163;    Harvey Mudd College; CA ;50649;825
+164;    University of Missouri, Columbia   ; MO ;9509;35424
+165;    Smith College  ; MA ;46288;2874
+166;    University of Wyoming  ; WY ;4892;12648
+167;    Carnegie Mellon University ; PA ;50665;12963
+168;    Furman University  ; SC ;46012;2884
+169;    Iowa State University  ; IA ;7736;35714
+170;    University of Kansas   ; KS ;10825;27259
+171;    California State University Maritime Academy   ; CA ;6558;1075
+171;    Scripps College; CA ;49152;989
+173;    University of Minnesota, Morris; MN ;12846;1856
+174;    University of Tennessee, Knoxville ; TN ;12436;27845
+175;    Southern Methodist University  ; TX ;48190;11643
+176;    University of Nevada, Reno ; NV ;6902;20898
+177;    Michigan Technological University  ; MI ;14286;7218
+177;    University of Alaska, Fairbanks; AK ;5674;8638
+179;    Oregon State University; OR ;10107;29576
+180;    SUNY Maritime College  ; NY ;7809;186
+181;    Towson University  ; MD ;9182;22284
+182;    University of Hawaii, Manoa; HI ;11164;18865
+183;    University of Colorado, Denver ; CO ;8692;23671
+184;    Illinois Institute of Technology   ; IL ;43680;7792
+185;    Boston University  ; MA ;48436;32158
+186;    College of New Jersey  ; NJ ;15466;7406
+187;    Bucknell University; PA ;50152;3625
+188;    Sonoma State University; CA ;7330;9408
+189;    Tulane University  ; LA ;49638;12485
+190;    University of Alabama in Huntsville; AL ;9128;7866
+191;    University of Texas, Arlington ; TX ;9208;41988
+192;    Truman State University; MO ;7456;6208
+193;    Whitman College; WA ;46138;147
+194;    Connecticut College; CT ;49350;1922
+195;    New Mexico State University; NM ;6094;1549
+196;    College of the Holy Cross  ; MA ;47176;2729
+197;    Oregon Institute of Technology ; OR ;8838;4777
+198;    University of Miami (FL)   ; FL ;45724;16825
+199;    Villanova University   ; PA ;47616;10711
+200;    Pennsylvania State University  ; PA ;17514;47307
+200;    University of Mary Washington  ; VA ;11130;4647
+202;    West Virginia University   ; WV ;7632;28776
+203;    University of Tulsa; OK ;39521;4671
+204;    University of Nevada, Las Vegas; NV ;6943;286
+205;    Appalachian State University   ; NC ;6852;17932
+205;    University of Louisiana, Lafayette ; LA ;8256;17508
+207;    California State University, San Bernardino; CA ;6577;20024
+208;    Occidental College ; CA ;49248;2023
+209;    Florida Atlantic University; FL ;4831;3038
+210;    Tennessee Technological University ; TN ;8011;109
+210;    Wofford College; SC ;38705;166
+212;    University of Texas, El Paso   ; TX ;7259;23397
+213;    George Washington University   ; DC ;50435;26212
+214;    University of North Georgia; GA ;4403;17289
+215;    University of Kentucky ; KY ;10936;29727
+216;    American University; DC ;43103;13198
+217;    Sarah Lawrence College ; NY ;51038;1643
+218;    Montana State University   ; MT ;6849;15236
+219;    Case Western Reserve University; OH ;44560;1134
+220;    Brandeis University; MA ;49598;5752
+221;    DePauw University  ; IN ;44678;2265
+222;    CUNY, Lehman College   ; NY ;6760;12807
+222;    Weber State University ; UT ;5321;25955
+224;    Embry-Riddle Aeronautical University, Prescott ; AZ ;33144;2265
+225;    SUNY, College at New Paltz ; NY ;7737;7751
+226;    Denison University ; OH ;47290;2254
+226;    University of Rochester; NY ;48280;11105
+228;    Macalester College ; MN ;48887;2172
+229;    Loyola Marymount University; CA ;42795;9392
+230;    Oberlin College; OH ;50582;2929
+230;    Presbyterian College   ; SC ;36130;1379
+230;    University of Massachusetts, Amherst   ; MA ;14171;29269
+233;    University of Alaska, Anchorage; AK ;5545;16762
+234;    University of North Florida; FL ;6394;15675
+235;    Touro College  ; NY ;16700;13033
+236;    University of Alabama  ; AL ;10170;37098
+237;    Wheaton College (IL)   ; IL ;32950;2929
+238;    University of Mississippi  ; MS ;7444;23212
+239;    Montclair State University ; NJ ;11773;20465
+240;    University of Denver   ; CO ;44178;11797
+241;    University of San Diego; CA ;44586;8251
+242;    Florida International University   ; FL ;6556;49782
+242;    Mississippi State University   ; MS ;7502;20873
+244;    Dickinson College  ; PA ;49489;242
+245;    Rockhurst University   ; MO ;34790;2825
+246;    Wabash College ; IN ;39980;868
+247;    St. Mary's College of Maryland ; MD ;13895;1735
+248;    University of North Texas  ; TX ;9730;37299
+249;    Manhattan College  ; NY ;38580;4071
+250;    Sewanee—University of the South; TN ;38700;1797
+251;    North Dakota State University  ; ND ;8098;14516
+252;    University of Texas, Rio Grande Valley ; TX ;7292;28584
+253;    Trinity University (TX); TX ;37856;2438
+254;    Texas Christian University ; TX ;40720;10323
+255;    University of Portland ; OR ;42288;4338
+256;    University of North Carolina, Charlotte; NC ;6532;27983
+257;    University of Idaho; ID ;7020;11372
+258;    University of New Mexico   ; NM ;7071;27285
+259;    University of New Orleans  ; LA ;8004;8423
+260;    Florida Institute of Technology; FL ;39290;6631
+261;    Texas State University ; TX ;9348;37979
+262;    University of Cincinnati   ; OH ;11000;36042
+263;    Bentley University ; MA ;44085;5552
+264;    University of Pittsburgh   ; PA ;18192;28649
+264;    University of San Francisco; CA ;42634;10797
+266;    University of Nebraska, Omaha  ; NE ;6898;15526
+267;    Rhodes College ; TN ;43224;2063
+268;    Mount Holyoke College  ; MA ;43886;2215
+269;    Pepperdine University  ; CA ;48342;7632
+270;    University of South Carolina   ; SC ;11482;33724
+271;    University of Massachusetts Lowell ; MA ;13427;18047
+272;    Embry-Riddle Aeronautical University, Daytona Beach; FL ;33218;5806
+273;    Union College (NY) ; NY ;50013;2269
+274;    SUNY, College of Environmental Science and Forestry; NY ;7848;2222
+275;    Hendrix College; AR ;40870;1338
+275;    University of North Carolina, Asheville; NC ;6605;3891
+277;    Central Washington University  ; WA ;8688;11993
+277;    Fordham University ; NY ;47317;15286
+279;    Bryn Mawr College  ; PA ;47140;1692
+280;    University of the Pacific (CA) ; CA ;42934;6281
+281;    St. Olaf College   ; MN ;42940;3046
+282;    Earlham College; IN ;44390;1067
+283;    Kansas State University; KS ;9350;24146
+284;    Elon University; NC ;32172;6631
+285;    University of Wisconsin, Eau Claire; WI ;8822;10592
+286;    Saint Joseph's University (PA) ; PA ;42180;8625
+286;    University of Colorado Colorado Springs; CO ;7692;11988
+288;    Lewis & Clark College  ; OR ;45104;3526
+289;    Salisbury University   ; MD ;9086;8671
+290;    Thomas Aquinas College ; CA ;24500;377
+291;    Gonzaga University ; WA ;37990;7491
+292;    Westmont College   ; CA ;41360;1297
+293;    St. Francis College; NY ;23800;2672
+294;    Gettysburg College ; PA ;49140;2447
+294;    Northeastern University; MA ;45530;1994
+294;    Syracuse University; NY ;43318;21789
+297;    Saint John's University (MN)   ; MN ;40226;1869
+297;    University of Massachusetts Boston ; MA ;12682;1703
+299;    St. John's College, Santa Fe   ; NM ;49644;390
+300;    Northern Arizona University; AZ ;10358;29021
